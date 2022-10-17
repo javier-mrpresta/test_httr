@@ -479,7 +479,7 @@
 "CAT_MCA__c": 27.03,
 "Fecha_de_Firma__c": null,
 "Fecha_Final_MCA__c": null,
-"Calificacion_MRP_AR__c": null,
+"Calificacion_MRP_AR__c": "ZZ",
 "Cliente__c": null,
 "Transaccionalidad__c": null,
 "Concentracion__c": null,
